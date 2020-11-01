@@ -1,4 +1,4 @@
-package com.hellokotlinreactnative;
+package com.example.hellokotlinreactnative;
 
 import com.facebook.react.ReactActivity;
 
